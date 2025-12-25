@@ -18,7 +18,8 @@ To run this project locally, follow these steps:
 
     Clone the repo
 
-    git clone https://github.com/<sonuyadav111>/MyToDoApp.git
+    https://github.com/sonuyadav111/Android-To-Do-List-App/tree/main
+    
 
  
 
